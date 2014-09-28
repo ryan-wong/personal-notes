@@ -5,17 +5,20 @@
 2. 4 (B) 4 Box red, invade at wolves by trapping with box, Q over wall and attack.
 3. (RB) 3 Boxes blue/red, ask for leesh, go to other buff and smite do it -> wraith or wolves.
 4. First buff should finish at 2:08
-5. (2 pots) Start Blue 3 Boxes , smite waith, wolves, wraith, gank mid(lvl 3) (save up enough for pixaxe and back if no gank)
+5. (2 pots) Start Blue 3 Boxes , smite waith, wolves, wraith, gank mid(lvl 3) (save up enough for pickaxe and back if no gank)
+
 ##First Back
 1. 775g Madred Razor, long sword.
 2. 775g Sight Stone, boots.
 
 ##Second Back
 1. 2 long swords. Finish Blige first if behind.
+
 ##Build Path
 1. Objective Shaco. Feral flare -> Botrk -> IE -> Triforce.
 2. Gank Shaco. Sight Stone -> Mobi Boots -> lizard -> Shiv -> Tiamat -> defensive.
 3. Tank Shaco. Buy pixaxe or long swords -> red, gank mid if flash gone. buy pixaxe if you odn't have it.
+
 ##Runes
 1. speed Red, speed yellow, 2 speed Quints, 1 Move Speed, Cooldown Blue
 
@@ -34,6 +37,7 @@
 2. Splitpush Shaco: Want to do split push, not about assasinations. Don't split push if you can't push very fast. IF you split and get tower, you can get team back the gold you lost in team fight.Otherwise, not worth split pushing.
 3. phy the clown shaco: Doran -> hydra -> zerker -> botrk -> LW -> GA/IE . If you do double buff and gank, and don't get 2 kills, you are behind by lvl 5
 4. Tank shaco: hydra(11min) -> hexdrinker -> randiums/frozen heart -> banshee. Basically go in dps and tnak a bit.
+
 #Gank Top
 1. Jump over purple side wall into river to gank
 2. Jump over blue side wall river gank
@@ -64,4 +68,4 @@
 15. If tower about to hit you, you can ult to cancel tower attack
 16. Ward the brush and pull creep to it
 17. Invade shaco has too many variance, outcome is not always promised
-18. Right when you tower dive adn turret shot about to hit, ult and someone else gets aggro while you hit enemy champion
+18. Right when you tower dive and turret shot about to hit, ult and someone else gets aggro while you hit enemy champion
