@@ -17,7 +17,7 @@
 ##Build Path
 1. Objective Shaco. Feral flare -> Botrk -> IE -> Triforce.
 2. Gank Shaco. Sight Stone -> Mobi Boots -> lizard -> Shiv -> Tiamat -> defensive.
-3. Tank Shaco. Buy pixaxe or long swords -> red, gank mid if flash gone. buy pixaxe if you odn't have it.
+3. Tank Shaco. Buy pixaxe or long swords -> red, gank mid if flash gone. buy pixaxe if you don't have it.
 
 ##Runes
 1. speed Red, speed yellow, 2 speed Quints, 1 Move Speed, Cooldown Blue
