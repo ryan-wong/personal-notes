@@ -1,13 +1,24 @@
+#Stages
+
 Master
+
+
 Develop
-Feature - when complete, merge back into develop
-Release - Accumulated enough features, fork a branch off of develop, start next release cycle, no more features
-          only bug fixes, document generation
-        - merge into master and develop
-        - tagged master with version #
-        - naming convention release-, release/
-Hotfix  - branch off master to fix bug, merge into master and develop
-		- tag master with new version #
+
+
+Feature 
+- when complete, merge back into develop
+
+
+Release 
+- Accumulated enough features, fork a branch off of develop, start next release cycle, no more features only bug fixes, document generation
+- merge into master and develop
+- tagged master with version #
+- naming convention release-, release/
+
+Hotfix  
+- branch off master to fix bug, merge into master and develop
+- tag master with new version #
 
 
 git branch develop
