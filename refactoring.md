@@ -137,6 +137,14 @@ class StateType
 - make sure the naming cannot be misinterupted
 - make sure code is so readable they don't have to go into code and see what it does
 
+#Noop field in object
+- lets say you have an object with layout : {a:1, b: null}
+- so layout can be a is value and b is null OR a is null and b is value
+- this is bad practice, instead make layout a duck type
+- so layout can be of type a or type b
+- layout : {a:1}
+- layout : {b:1}
+
 #Code Standards
 - Don't put Class or Object in variable or field or class name
 - Always be consistent when returning objects, so always return full objects
