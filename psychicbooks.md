@@ -1,1 +1,3 @@
 - Mastering Witchcraft A practical guide for witches, warlocks and covens
+- The Etheric Double: The Health Aura of Man
+- The Astral Body: And Other Astral Phenomena
