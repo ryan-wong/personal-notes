@@ -192,19 +192,46 @@
 
 #Wands
 - fire, doing ,action, passion, clubs
+- fitness people, sales, sports, teaching, coaching
+- not good at 9-5 job
+- no sympathy people
 
 ##1
 - big thrusting ahead, self creation, fertilality, move within year, change, travel over water, leave past behind, lots of action, growth, thought into actions
+- idea translated into action
+- impatient to see results
+- initializing action for travel, new venture, some physical goal
+- ignore planning to rush goal
+- push ahead for your financial plans, risk taking may apply to you now
+- have sufficent energy to to imbrace life fully
+
+###Reveresed
+- full understanding of project before starting it
+- drain by other projects before you can start neew one
+- defer plans until completed current projects
+- financial delays
+- hyperactive ,restless, impatient to others
+-  energy to scattered
 
 
 ##2
 - preperation have been made, idea of harvest, searching, giver, has wisdom and ready to go
+- mostly about home or work, deciding to move ahead or remain
+- if about finances, you are asking if you can afford to move forward now
+
+###Reversed
+- prolonged indecision
+- can't move forwad until you pay off debt
 
 
 ##3
 - ripe ideas from past, future time, see whats left in future, right whats in past
 - plans been made and happening, experienced, knows how ot walk next step
+- travel or progress of plans
 
+###Reversed
+- time to change home or work environment and spend more time at home
+- fustrated with slow progress
 
 ##4
 - establish home, well deserve success, celebration, if page of wand cop waiting
@@ -212,31 +239,62 @@
 - travel to happy occation
 - stay well grounded
 
+###Reversed
+- temporary work or home, leaving job, haven't settled, lack commitment
+
 ##5
 - family fighting, business dispute if lots of pentacles, big fights, not going win if justice/emperor coming in
 - watch your words
+- fighting with no obvious purpose
+- group activity will be in conflict now
+- scatter your energy , too stretched
+
+###Reversed
+- common ground can be found
+- physically change (enviroments)
+- after struggle comes cohesion and cooperation
+- leaving behind period of scattered energy
 
 ##6
 - strong willed, bit rushy, gotta keep up, matter being settled through diplomacy
 - coming fast
+- success in your plans
+
+###Reversed
+- lack success in plans, find new focus
 
 ##7
 - keep things at bay, listen, mental and strength is needed for a good 7 month
 - dont do new thing right now especially if 6pentacles
 - lots of obstacles
 
+#Reversed 
+- too many obstacles for you, need to remain stable, grounded
+
 ##8
 - flying in air, fast moving energy, future message, see card coming next, cant make river go faster by tugging at it
 - watch future unfold especially if follow by page of wand
 - next card really important future mesage
+- dream of freedom
+
+###Reversed
+- some delays in your plans and travel but not enough to reduce enjoyment
 
 ##9
 - will not change, will repeat the past, new wand of future or energy but the same
+- move forward slowly
+
+###Reversed
+- too critical of past mistakes
+- need holiday
 
 ##10
 - see alot of burden to see it through, too much stress, but balance better, dont carry all of it, doing too much things especially if 5cups
+- if you want job done, do it yourself
+- i can do this it will be easy it won't take long
 
-
+###Reversed
+- chance of success is slim
 
 ##King
 - full of ideas, passion, manifesting it, stir fair
@@ -248,13 +306,35 @@
 
 ##Knight
 - restless, has protection, great ideas, immature and mislead easily, lots of guidence
+- short burst of hard work, tires from routine and long term objectives
+- goal oriented, outgoing , bold, love challenge, enjoy being free
+- women will find him attrractive but he has no emotional commitment to them
+- filt because he can
+- need to act quickly to seige oppurtunity avaialable
+- tend to repeat unlearned lessons
+- workign hard as a goal against opposition only to abandon it once achieved
+- push harder when fustrated
+- will abandon job/relationship/home for a greener grass
+- keep at it until commitment is required and need to move on from there
+- live in the future
 
+###Reversed
+- enjoy chase over reward
+- lack commitment, too many projects at once, drawn by competition
+- women want to tame his rebellion nature
+- resist domestic life, prefer to move onto next relationship when available
+- make running away look like searching
+- always looking for right oppurtunity instead of seeing whats in front of them
 
 ##Page
 - trust worthy youth, message is coming
 - eyes are cover by hat, dont have experience can't see whats coming
+- embark on new adventures, outgoing, seek rewards, not discourage by competition
 
-
+###Reversed
+- can be demanding, impatient, loud reckless clumsy
+- untidy and sloppy
+- delay starting new projects
 
 #Cups
 - water, feminine, feeling and emotions, hearts
